@@ -1,0 +1,1 @@
+json檔 比較重要的就  weburl 指向官方的就可以  然後 url :放的就是有boards 跟platform的zip檔 (也就是先存到github上，之後將raw的連結貼上去) 有一個蠻重要的就是 "checksum": "SHA-256:097f04a67720fd3b98d7c6ae760e1e855c494ab4ac07fe75507ab7972a31e788", ZIP 檔需要 經過SHA-256校驗 ARDUINO IDE才能夠確保這是正確的壓縮包
